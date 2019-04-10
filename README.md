@@ -2,7 +2,7 @@
 
 > 一个企业官网
 >
-> 演示地址：[传送门](monkey.input520.cn)
+> 演示地址：[传送门](<http://monkey.input520.cn/>)
 
 ## Build Setup
 
